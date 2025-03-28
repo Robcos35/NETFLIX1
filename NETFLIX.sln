@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NETFLIX", ".", "{14B22369-7D14-4E35-A333-37E04C02ABE4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60326"
+		Debug.AspNetCompiler.PhysicalPath = "..\NETFLIX\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60326\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60326"
+		Release.AspNetCompiler.PhysicalPath = "..\NETFLIX\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60326\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60326"
+		SlnRelativePath = "..\NETFLIX\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B22369-7D14-4E35-A333-37E04C02ABE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B22369-7D14-4E35-A333-37E04C02ABE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA199D2C-E2BB-492E-A2E5-DD9BCC1D5A71}
+	EndGlobalSection
+EndGlobal
